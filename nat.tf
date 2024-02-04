@@ -29,6 +29,6 @@ resource "aws_nat_gateway" "nat-gateway2" {
 
 
   tags = {
-    Name = "Public1"
+    Name = "Public2"
   }
 }
